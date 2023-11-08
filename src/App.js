@@ -8,25 +8,25 @@ const DUMMY_EXPENSES = [
     id: 'e1',
     title: "Car Insurance",
     amount: 265.43,
-    date: new Date(2022, 5, 2),
+    date: new Date(2023, 5, 2),
   },
   {
     id: 'e2',
     title: "Housing",
     amount: 2650.00,
-    date: new Date(2022, 6, 2),
+    date: new Date(2023, 6, 2),
   },
   {
     id: 'e3',
     title: "Car",
     amount: 265.43,
-    date: new Date(2021, 1, 3),
+    date: new Date(2022, 1, 3),
   },
   {
     id: 'e4',
     title: "Stuff",
     amount: 265.43,
-    date: new Date(2021, 7, 6),
+    date: new Date(2022, 7, 6),
   },
   {
     id: 'e5',
@@ -38,7 +38,7 @@ const DUMMY_EXPENSES = [
     id: 'e6',
     title: "Things",
     amount: 1000.00,
-    date: new Date(2022, 4, 9),
+    date: new Date(2023, 4, 9),
   },
 ];
 

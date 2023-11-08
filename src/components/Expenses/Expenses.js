@@ -8,7 +8,7 @@ import ExpensesChart from "./ExpensesChart";
 import MonthlyBudget from "../MonthlyBudget/MonthlyBudget";
 
 const Expenses = (props) => {
-  const [selectedFilter, setSelectedFilter] = useState("2022");
+  const [selectedFilter, setSelectedFilter] = useState("2023");
   const [monthlyBudget, setMonthlyBudget] = useState("3500");
 
   const changeFilterHandler = (filterValue) => {
